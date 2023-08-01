@@ -1,0 +1,97 @@
+{
+  "people": [
+    {
+      "id": 1,
+      "name": "Waiyan",
+      "job": "Frontend Developer",
+      "friendId": 1
+    },
+    {
+      "id": 2,
+      "name": "Ben",
+      "job": "Footballer",
+      "friendId": 0
+    },
+    {
+      "id": 3,
+      "name": "Kendrick",
+      "job": "Rapper",
+      "friendId": 0
+    },
+    {
+      "id": 4,
+      "name": "Leonardo",
+      "job": "Actor",
+      "friendId": 0
+    },
+    {
+      "id": 5
+    },
+    {
+      "name": "Mikkel",
+      "job": "Traveller",
+      "friendId": 1,
+      "id": 6
+    },
+    {
+      "name": "John",
+      "job": "Figher",
+      "friendId": 1,
+      "id": 7
+    },
+    {
+      "name": "dsadas",
+      "job": "asdsad",
+      "friendId": 1,
+      "id": 8
+    }
+  ],
+  "friends": [
+    {
+      "id": 5,
+      "name": "JieJie",
+      "job": "Executive HR",
+      "friendId": 1
+    },
+    {
+      "id": 6,
+      "name": "Ko Kyaw",
+      "job": "FullStack Developer",
+      "friendId": 1
+    }
+  ],
+  "mods": [
+    {
+      "id": 1,
+      "name": "EH"
+    },
+    {
+      "id": 2,
+      "name": "DN"
+    },
+    {
+      "id": 3,
+      "name": "DT"
+    },
+    {
+      "id": 4,
+      "name": "PS"
+    },
+    {
+      "id": 5,
+      "name": "DM"
+    },
+    {
+      "id": 6,
+      "name": "DE"
+    },
+    {
+      "id": 7,
+      "name": "NN"
+    },
+    {
+      "id": 8,
+      "name": "KA"
+    }
+  ]
+}
